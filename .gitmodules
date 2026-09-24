@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = ../thuta-api.git
+[submodule "app"]
+	path = app
+	url = ../thuta-app.git
+[submodule "mobile"]
+	path = mobile
+	url = ../thuta-mobile.git

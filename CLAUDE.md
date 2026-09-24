@@ -1,0 +1,1 @@
+Read and follow [AGENTS.md](AGENTS.md) for the Property Portal's repository boundaries, constraints, chosen stack, and architecture. Use [SPEC.md](SPEC.md) as the source for current feature requirements.
